@@ -19,27 +19,27 @@
 							<a href="index.html">Home</a>
 						</li>
 						<li>
-							<a href="new.html">New Arrivals</a>
+							<a href="new.php">New Arrivals</a>
 						</li>
 						<li>
-							<a href="mens.html">Mens</a>
+							<a href="mens.php">Mens</a>
 						</li>
 						<li>
-							<a href="womens.html">Womens</a>
+							<a href="womens.php">Womens</a>
 						</li>
 						<li>
-							<a href="faq.html">Faq</a>
+							<a href="faq.php">Faq</a>
 						</li>
 						<li class="highlight">
-							<a href="sale.html">Sale Items</a>
+							<a href="sale.php">Sale Items</a>
 						</li>
 					</ul>
 					<ul id="secondary">
 						<li>
-							<a href="checkout.html">Cart</a>
+							<a href="checkout.php">Cart</a>
 						</li>
 						<li>
-							<a href="index.html">Login</a> | <a href="index.html">Signup</a>
+							<a href="index.html">Login</a>
 						</li>
 					</ul>
 				</div>
@@ -62,24 +62,24 @@
 									<p>
 										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis cursus gravida. Suspendisse ut ligula tristique velit blandit blandit vel sit amet ipsum. Nam accumsan turpid id mauris fermentum
 									</p></td>
-								<td><a href="checkout.html" class="minus"></a> <a href="checkout.html" class="plus"></a>
+								<td><a href="checkout.php" class="minus"></a> <a href="checkout.php" class="plus"></a>
 									<input type="text" value="1" class="txtfield"></td>
-								<td><a href="checkout.html" class="minus"></a> <a href="checkout.html" class="plus"></a>
+								<td><a href="checkout.php" class="minus"></a> <a href="checkout.php" class="plus"></a>
 									<input type="text" value="7.5" class="txtfield"></td>
 								<td class="last"><div>
-										$8.50 <a href="checkout.html">Delete</a>
+										$8.50 <a href="checkout.php">Delete</a>
 									</div></td>
 							</tr> <tr>
 								<td><img src="images/leather-boots3.jpg" alt="Thumbnail"> <b>Hukbalahap Boots</b>
 									<p>
 										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis cursus gravida. Suspendisse ut ligula tristique velit blandit blandit vel sit amet ipsum. Nam accumsan turpid id mauris fermentum
 									</p></td>
-								<td><a href="checkout.html" class="minus"></a> <a href="checkout.html" class="plus"></a>
+								<td><a href="checkout.php" class="minus"></a> <a href="checkout.php" class="plus"></a>
 									<input type="text" value="1" class="txtfield"></td>
-								<td><a href="checkout.html" class="minus"></a> <a href="checkout.html" class="plus"></a>
+								<td><a href="checkout.php" class="minus"></a> <a href="checkout.php" class="plus"></a>
 									<input type="text" value="7.5" class="txtfield"></td>
 								<td class="last"><div>
-										$8.50 <a href="checkout.html">Delete</a>
+										$8.50 <a href="checkout.php">Delete</a>
 									</div></td>
 							</tr> <tr>
 								<td><img src="images/leather-boots3.jpg" alt="Thumbnail"> <b>Hukbalahap Boots</b>
@@ -108,7 +108,7 @@
 							</tr>
 						</tbody>
 					</table>
-					<a href="checkout.html" class="proceed-btn">Proceed to Checkout</a>
+					<a href="checkout.php" class="proceed-btn">Proceed to Checkout</a>
 				</div>
 			</div>
 			<div id="footer">
