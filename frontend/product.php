@@ -11,7 +11,7 @@
 		<div id="page">
 			<div id="header">
 				<div id="logo">
-					<a href="index.html"><img src="images/logo.png" alt="LOGO"></a>
+					<a href="index.html"><img src="images/fam.png" alt="LOGO"></a>
 				</div>
 				<div id="navigation">
 					<ul id="primary">
@@ -22,16 +22,10 @@
 							<a href="new.html">New Arrivals</a>
 						</li>
 						<li>
-							<a href="mens.html">Mens</a>
+							<a href="mens.html">Category</a>
 						</li>
 						<li>
-							<a href="womens.html">Womens</a>
-						</li>
-						<li>
-							<a href="faq.html">Faq</a>
-						</li>
-						<li class="highlight">
-							<a href="sale.html">Sale Items</a>
+							<a href="womens.html">Manufacturer</a>
 						</li>
 					</ul>
 					<ul id="secondary">
@@ -45,6 +39,7 @@
 				</div>
 			</div>
 			<div id="contents">
+				<br>
 				<h4><span>New Arrivals</span></h4>
 				<div id="stocks">
 					<ul>
@@ -74,6 +69,65 @@
 						</li>
 					</ul>
 				</div>
+<h4><span>New Arrivals</span></h4>
+				<div id="stocks">
+					<ul>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-brown.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-violet.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-yellow.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-green.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-brown.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-violet.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-yellow.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-green.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+					</ul>
+				</div>
+				<h4><span>New Arrivals</span></h4>
+				<div id="stocks">
+					<ul>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-brown.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-violet.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-yellow.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-green.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-brown.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-violet.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-yellow.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+						<li>
+							<a href="product.html" class="preview" title="Preview"> <img src="images/boots-green.jpg" alt="Img"> <span class="icon"></span></a> <span>$8.50</span> Hukbalahap Boots <em>Quick Shop</em> <a href="checkout.php" class="btn-cart">Add to Cart</a> <a href="checkout.php" class="btn-wish">Add to Wishlist</a>
+						</li>
+					</ul>
+				</div>
+
 				<div class="footer">
 					<h4><span>Similar Items</span></h4>
 					<ul class="items">
