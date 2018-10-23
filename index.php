@@ -115,46 +115,8 @@
 					</div>
 				</div>
 			</div>
-			<div id="footer">
-				<div class="background">
-					<div id="connect">
-						<h5>Get Social With us!</h5>
-						<ul>
-							<li>
-								<a href="http://freewebsitetemplates.com/go/facebook/" target="_blank" class="facebook"></a>
-							</li>
-							<li>
-								<a href="http://freewebsitetemplates.com/go/twitter/" target="_blank" class="twitter"></a>
-							</li>
-							<li>
-								<a href="http://www.freewebsitetemplates.com/go/googleplus/" target="_blank" class="linkin"></a>
-							</li>
-						</ul>
-					</div>
-					<ul class="navigation">
-						<li>
-							<h5>Vegetable</h5>
-							<a href="fontend/mens.php">Tomato</a> <a href="fontend/mens.php">Potato</a> <a href="fontend/mens.php">Mint</a> <a href="fontend/mens.php">Egg plant</a>
-						</li>
-						<li>
-							<h5>Sea food</h5>
-							<a href="fontend/womens.php">Fish</a> <a href="fontend/womens.php">Octopus</a> <a href="fontend/womens.php">Srimp</a> <a href="fontend/womens.php">Squid</a>
-						</li>
-						<li class="latest">
-							<h5>New Arrivals</h5>
-							<a href="fontend/new.php">Carrot</a> <a href="fontend/new.php">Pea nuts</a> <a href="fontend/new.php">Cucumber</a> <a href="fontend/new.php">Apple</a>
-						</li>
-						<li class="latest">
-							<h5>On Sale Items</h5>
-							<a href="fontend/sale.php">Popcorn</a> <a href="fontend/sale.php">Orange</a> <a href="fontend/sale.php">Egg</a> <a href="fontend/sale.php">Onion</a>
-						</li>
-					</ul>
-					<p class="footnote">
-						&copy; Copyirght &copy; 2018. <a href="index.html">FamilyMart.Inc</a> all rights reserved.
-					</p>
-				</div>
-			</div>
 		</div>
 	</div>
 </body>
+<?php include 'frontend/footer.php'?>
 </html>
