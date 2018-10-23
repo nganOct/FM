@@ -4,14 +4,14 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Index</title>
-	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" href="frontend/css/style.css" type="text/css">
 </head>
 <body>
 	<div id="background">
 		<div id="page">
 			<div id="header">
 				<div id="logo">
-					<a href="index.php"><img src="images/fam.png" alt="LOGO"></a>
+					<a href="index.php"><img src="frontend/images/fam.png" alt="LOGO"></a>
 				</div>
 				<div id="navigation">
 					<ul id="primary">
