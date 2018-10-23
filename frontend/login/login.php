@@ -22,7 +22,7 @@
 <body>
 
   <div class="login-wrap">
-  	<a href="../../index.html">
+  	<a href="../../index.php">
   		<img src="../images/fam.png" style="width: 75%; height: 75%; margin-top: 20px; margin-bottom: 15px">
   	</a>
 	<div class="login-html">

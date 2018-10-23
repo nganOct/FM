@@ -11,12 +11,12 @@
 		<div id="page">
 			<div id="header">
 				<div id="logo">
-					<a href="index.html"><img src="images/fam.png" alt="LOGO"></a>
+					<a href="index.php"><img src="images/fam.png" alt="LOGO"></a>
 				</div>
 				<div id="navigation">
 					<ul id="primary">
 						<li class="selected">
-							<a href="index.html">Home</a>
+							<a href="index.php">Home</a>
 						</li>
 						<li>
 							<a href="frontend/item.php">Products</a>
@@ -33,10 +33,10 @@
 					</ul>
 					<ul id="secondary">
 						<li>
-							<a href="fontend/checkout.php">Cart</a>
+							<a href="frontend/checkout.php">Cart</a>
 						</li>
 						<li>
-							<a href="fontend/login/login.php">Login</a>
+							<a href="frontend/login/login.php">Login</a>
 						</li>
 					</ul>
 				</div>
@@ -48,7 +48,7 @@
 						<p>
 							
 						</p>
-						<form action="index.html" method="post">
+						<form action="index.php" method="post">
 							<ul>
 								<li>
 									<select id="size">
