@@ -3,7 +3,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>New Arrivals - RubberNLaces Website Template</title>
+	<title>Sale Items - RubberNLaces Website Template</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
@@ -11,27 +11,21 @@
 		<div id="page">
 			<div id="header">
 				<div id="logo">
-					<a href="index.html"><img src="images/logo.png" alt="LOGO"></a>
+					<a href="index.html"><img src="images/fam.png" alt="LOGO"></a>
 				</div>
 				<div id="navigation">
 					<ul id="primary">
 						<li>
 							<a href="index.html">Home</a>
 						</li>
-						<li class="selected">
+						<li>
 							<a href="new.html">New Arrivals</a>
 						</li>
-						<li>
-							<a href="mens.html">Mens</a>
+						<li class="selected">
+							<a href="mens.html">Sale Items</a>
 						</li>
-						<li>
-							<a href="womens.html">Womens</a>
-						</li>
-						<li>
-							<a href="faq.html">Faq</a>
-						</li>
-						<li class="highlight">
-							<a href="sale.html">Sale Items</a>
+						<li >
+							<a href="womens.html">Products</a>
 						</li>
 					</ul>
 					<ul id="secondary">
@@ -44,8 +38,10 @@
 					</ul>
 				</div>
 			</div>
-			<div id="contents">
-				<h4><span>New Arrivals</span></h4>
+				<img style=" margin-left: 24px; width: 90%" src="images/sale5.jpg" alt="">
+				<br><br>
+				<div id="contents">
+				<h4><span> Sale Items</span></h4>
 				<div id="stocks">
 					<ul>
 						<li>
@@ -74,6 +70,7 @@
 						</li>
 					</ul>
 				</div>
+
 				<div class="footer">
 					<h4><span>Similar Items</span></h4>
 					<ul class="items">
