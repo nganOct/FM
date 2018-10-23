@@ -25,7 +25,7 @@
 							<a href="frontend/sale.php">Sales</a>
 						</li>
 						<li>
-							<a href="frontend/new.php">News</a>
+							<a href="frontend/news/news.php">News</a>
 						</li>
 						<li>
 							<a href="frontend/about.php">About</a>

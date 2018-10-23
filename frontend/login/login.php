@@ -18,7 +18,7 @@
     margin-left: auto;
     margin-right: auto;
 	}
-</style>>
+</style>
 <body>
 
   <div class="login-wrap">
