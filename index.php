@@ -19,13 +19,13 @@
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<a href="frontend/item.php">Products</a>
+							<a href="frontend/new.php">Products</a>
 						</li>
 						<li>
 							<a href="frontend/sale.php">Sales</a>
 						</li>
 						<li>
-							<a href="frontend/news/news.php">News</a>
+							<a href="frontend/news/news.php">Promotions</a>
 						</li>
 						<li>
 							<a href="frontend/about.php">About</a>
@@ -76,23 +76,23 @@
 							<input type="submit" value="Search" class="button">
 						</form>
 					</div>
-					<img src="images/bground.jpg" height="424" width="730" class="background" alt="Promo"> <a href="index.html" class="button"></a> <span></span>
+					<img src="frontend/images/bground.jpg" height="424" width="730" class="background" alt="Promo"> <a href="index.php" class="button"></a> <span></span>
 				</div>
 				<div id="main">
 					<div id="featured">
 						<h4><span>Featured products</span></h4>
 						<ul class="items">
 							<li>
-								<a href="fontend/product.php"> <img src="images/ss12.PNG" alt="Img"> <span>$19.50</span> Gạo nàng hoa </a>
+								<a href="fontend/product.php"> <img src="frontend/images/ss12.PNG" alt="Img"> <span>$19.50</span> Gạo nàng hoa </a>
 							</li>
 							<li>
-								<a href="fontend/product.php"> <img src="images/ss13.PNG" alt="Img"> <span>$19.50</span> Cheverlyn Zespax </a>
+								<a href="fontend/product.php"> <img src="frontend/images/ss13.PNG" alt="Img"> <span>$19.50</span> Cheverlyn Zespax </a>
 							</li>
 							<li>
-								<a href="fontend/product.php"> <img src="images/michinh.jpg" alt="Img"> <span>$19.50</span> Cheverlyn Zespax </a>
+								<a href="fontend/product.php"> <img src="frontend/images/michinh.jpg" alt="Img"> <span>$19.50</span> Cheverlyn Zespax </a>
 							</li>
 							<li>
-								<a href="fontend/product.php"> <img src="images/ss13.PNG" alt="Img"> <span>$19.50</span> Cheverlyn Zespax </a>
+								<a href="fontend/product.php"> <img src="frontend/images/ss13.PNG" alt="Img"> <span>$19.50</span> Cheverlyn Zespax </a>
 							</li>
 						</ul>
 					</div>
@@ -100,16 +100,16 @@
 						<h4><span>Sale Items</span></h4>
 						<ul class="items">
 							<li>
-								<a href="fontend/product.php"> <img src="images/ss12.PNG" alt="Img"> <span>$8.50</span> Hukbalahap Boots </a>
+								<a href="fontend/product.php"> <img src="frontend/images/ss12.PNG" alt="Img"> <span>$8.50</span> Hukbalahap Boots </a>
 							</li>
 							<li>
-								<a href="fontend/product.php"> <img src="images/ss12.PNG" alt="Img"> <span>$8.50</span> Hukbalahap Boots </a>
+								<a href="fontend/product.php"> <img src="frontend/images/ss12.PNG" alt="Img"> <span>$8.50</span> Hukbalahap Boots </a>
 							</li>
 							<li>
-								<a href="fontend/product.php"> <img src="images/ss12.PNG" alt="Img"> <span>$8.50</span> Hukbalahap Boots </a>
+								<a href="fontend/product.php"> <img src="frontend/images/ss12.PNG" alt="Img"> <span>$8.50</span> Hukbalahap Boots </a>
 							</li>
 							<li>
-								<a href="fontend/product.php"> <img src="images/product1.png" alt="Img"> <span>$8.50</span> Hukbalahap Boots </a>
+								<a href="fontend/product.php"> <img src="frontend/images/product1.png" alt="Img"> <span>$8.50</span> Hukbalahap Boots </a>
 							</li>
 						</ul>
 					</div>
