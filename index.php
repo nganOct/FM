@@ -19,7 +19,17 @@
 							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<a href="frontend/new.php">Products</a>
+							<a href="frontend/item.php">Products</a>
+							<ul class="sub-menu">
+				        		<li><a class= "small" href="#">New Arrivals</a></li>
+				        		<li class="inner"><a class= "small"href="#">Product Category</a>
+				        			<ul>
+				        				<li><a href="">Dairy Products</a></li> 
+				        				<li><a href="">Vegetable</a></li>
+				        			</ul>
+				        		</li>
+				       			 <li><a class= "small" href="#">Manufacturers</a></li>
+				     		 </ul>
 						</li>
 						<li>
 							<a href="frontend/sale.php">Sales</a>
@@ -76,7 +86,7 @@
 							<input type="submit" value="Search" class="button">
 						</form>
 					</div>
-					<img src="frontend/images/bground.jpg" height="424" width="730" class="background" alt="Promo"> <a href="index.php" class="button"></a> <span></span>
+					<img src="frontend/images/bground.jpg" height="424" width="730" style="z-index: 30;" class="background" alt="Promo"> <a href="index.php" class="button"></a> <span></span>
 				</div>
 				<div id="main">
 					<div id="featured">

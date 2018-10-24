@@ -5,11 +5,13 @@
 }
 body {
 	background: #ebebeb url(../images/bg-body.jpg) repeat-x left top;
-	margin: 0;
+	margin: 0;	
+
 }
 #background {
-	background: url(../images/bg-body2.png) repeat-x left top;
-}
+	background: url(../images/top-bar.png) repeat-x left top;
+	background-position: 127px 127px ;
+}	
 #page {
 	background: url(../images/bg-page.jpg) no-repeat center top;
 	background-size: 1000px;
@@ -56,7 +58,6 @@ img {
 /** Navigation **/
 #navigation {
 	background-position: 0 0;
-	color: #527b99;
 	height: 45px;
 	margin: 0;
 	padding: 0 10px;
@@ -70,10 +71,11 @@ img {
 }
 #navigation li {
 	float: left;
-	font-size: 14pt;
+	font-size: 14px;
 	margin: 0 18px;
 	padding-top: 5px;
 	text-align: center;
+	position: relative;
 }
 #navigation a {
 	font-family: Segoe UI;
@@ -83,6 +85,53 @@ img {
 	text-decoration: none;
 	text-transform: none;
 	font-weight: 500;
+	display: inline-block;
+}
+#navigation li ul.sub-menu{
+	 display: none;
+	 position: absolute;
+     text-align: left;
+     background-color: #5F9EA0;
+}
+#navigation li:hover ul.sub-menu {
+	display: inline-block;
+	top: 5px;
+	left: -30px;
+	background-color: #5F9EA0;
+	padding-top: 20px;
+	display: block;
+	text-align: left;
+	font-size: 15px;
+	z-index: 50;	
+	line-height: 60px;
+}
+#navigation li:hover ul.sub-menu li a.small{
+	font-size: 25px;	
+	color: #ffffff;
+	width: 9em;
+	padding-left: 13px;
+	padding-bottom: 10px;
+	font-family: Segoe UI;
+	font-size: 24px;
+	text-decoration: none;
+	text-transform: none;
+	font-weight: 500;
+	display: inline-block;
+	position: relative;
+	text-align: left;
+}
+#navigation ul ul{
+	display: none;
+}
+#navigation ul li:hover>ul {
+	display: block;
+	position: absolute;
+	top: -35px;
+	left: 237px;
+	background-color: #5F9EA0;
+	line-height: 60px;
+	text-align: left;
+	width: 17em;
 }
 #navigation a:hover, #primary li.selected a, #navigation #primary li.highlight a:hover {
 	background: url(../images/bg-menu-selected.gif) no-repeat center top;
@@ -94,6 +143,7 @@ img {
 	margin-top: 25px;
 	margin-right: 10px;
  	width: 650px;/** Needed for IE7 **/
+ 	background-color: ;
 }
 #navigation #primary li.highlight a {
 	color: #fafbf6;
