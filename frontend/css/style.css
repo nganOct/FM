@@ -253,6 +253,13 @@ img {
 	margin: 0 0 12px;
 	padding: 2px;
 }
+#search form input {
+	font-family: 'Trebuchet MS';
+	color: #5c7675;
+	width: 194px;
+	border: 0;
+	padding: 0;
+}
 #search form select {
 	font-family: 'Trebuchet MS';
 	color: #5c7675;

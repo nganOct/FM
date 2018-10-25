@@ -21,7 +21,7 @@
 						<li>
 							<a href="#">Products</a>
 							<ul class="sub-menu">
-				        		<li><a class= "small" href="newarrivals.php">New Arrivals</a></li>
+				        		<li><a class= "small" href="frontend/newarrivals.php">New Arrivals</a></li>
 				        		<li class="inner"><a class= "small"href="#">Product Category</a>
 				        			<ul>
 				        				<li><a href="dairyproduct.php">Dairy Products</a></li> 
@@ -64,20 +64,12 @@
 						<form action="index.php" method="post">
 							<ul>
 								<li>
-									<select id="size">
-										<option value="">Category </option>
-										<option value="">Dairy Products</option>
-										<option value="">Groceries</option>
-										<option value="">Vegetable</option>
-										<option value="">Drinks</option>
-										<option value="">Processed food</option>
-										<option>New Arrivals</option>
-										<option>Sale</option>
-									</select>
+										<input type="placeholder" value="     Product name..."> 
+									
 								</li>
 								<li>
 									<select id="color">
-										<option>Manufacturer</option><option value="">Nestle</option>
+										<option>&nbsp &nbsp Manufacturer</option><option value="">Nestle</option>
 										<option value="">Cozy</option>
 										<option value="">Vinamilk</option>
 										<option value="">TH True Milk</option>
@@ -90,17 +82,16 @@
 								</li>
 								<li>
 									<select id="brand">
-										<option>Product name</option>
-										<option value="">Canned milk</option>
-										<option value="">Butter</option>
-										<option value="">Oil</option>
+										<option>&nbsp &nbsp  Category</option>
+										<option value="">Groceries</option>
+										<option value="">Dairy products</option>
+										<option value="">Processed food</option>
+										<option value="">Drinks</option>
+										<option value="">Vegetable</option>
 									</select>
 								</li>
-								<li>
-									<select id="style">
-										<option>Price</option>
-										<option value="">2$</option>
-									</select>
+								<li> 
+									<input type="placeholder" value="     Price...">								
 								</li>
 							</ul>
 							<input type="submit" value="Search" class="button">

@@ -34,7 +34,7 @@
 				     		 </ul>
 						</li>
 						<li>
-							<a href="sale.php">Sale</a>
+							<a href="sale.php">Sales</a>
 						</li>
 						<li>
 							<a href="news/news.php">Promotions</a>

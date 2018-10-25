@@ -14,18 +14,13 @@
 				</div>
 				<div id="navigation">
 					<ul id="primary">
-						<li>
-							<a href="index.php">Home</a>
-						</li>
-						<li>
-							<a href="newarrivals.php">New Arrivals</a>
-						</li>
 						<li class="selected">
-							<a href="#">Sale Items</a>
-						</li>
-						<li >
+							<a href="index.php">Home</a>
+						</li>					
+						<li>
 							<a href="#">Products</a>
 							<ul class="sub-menu">
+				        		<li><a class= "small" href="newarrivals.php">New Arrivals</a></li>
 				        		<li class="inner"><a class= "small"href="#">Product Category</a>
 				        			<ul>
 				        				<li><a href="dairyproduct.php">Dairy Products</a></li> 
@@ -37,6 +32,15 @@
 				        		</li>
 				       			 <li><a class= "small" href="manufacturer.php">Manufacturers</a></li>
 				     		 </ul>
+						</li>
+						<li>
+							<a href="sale.php">Sales</a>
+						</li>
+						<li>
+							<a href="news/news.php">Promotions</a>
+						</li>
+						<li>
+							<a href="about.php">About</a>
 						</li>
 					</ul>
 					<ul id="secondary">
