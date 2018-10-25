@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- Website template by freewebsitetemplates.com -->
 <html>
 <head>
 	<meta charset="UTF-8">
@@ -16,24 +15,36 @@
 				<div id="navigation">
 					<ul id="primary">
 						<li>
-							<a href="index.html">Home</a>
+							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<a href="new.html">New Arrivals</a>
+							<a href="newarrivals.php">New Arrivals</a>
 						</li>
 						<li class="selected">
-							<a href="mens.html">Sale Items</a>
+							<a href="#">Sale Items</a>
 						</li>
 						<li >
-							<a href="womens.html">Products</a>
+							<a href="#">Products</a>
+							<ul class="sub-menu">
+				        		<li class="inner"><a class= "small"href="#">Product Category</a>
+				        			<ul>
+				        				<li><a href="dairyproduct.php">Dairy Products</a></li> 
+				        				<li><a href="vegetable.php">Vegetable</a></li>
+				        				<li><a href="groceries.php">Groceries</a></li>
+				        				<li><a href="drinks.php">Drinks</a></li>
+				        				<li><a href="food.php">Processed food</a></li>
+				        			</ul>
+				        		</li>
+				       			 <li><a class= "small" href="manufacturer.php">Manufacturers</a></li>
+				     		 </ul>
 						</li>
 					</ul>
 					<ul id="secondary">
 						<li>
-							<a href="checkout.html">Cart</a>
+							<a href="checkout.php">Cart</a>
 						</li>
 						<li>
-							<a href="index.html">Login</a> | <a href="index.html">Signup</a>
+							<a href="login/login.php">Login</a>
 						</li>
 					</ul>
 				</div>

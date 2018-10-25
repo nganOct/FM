@@ -1,9 +1,8 @@
 <!DOCTYPE html>
-<!-- Website template by freewebsitetemplates.com -->
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Checkout - RubberNLaces Website Template</title>
+	<title>Checkout - Family Mart</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
@@ -11,39 +10,50 @@
 		<div id="page">
 			<div id="header">
 				<div id="logo">
-					<a href="index.html"><img src="images/logo.png" alt="LOGO"></a>
+					<a href="index.html"><img src="images/fam.png" alt="LOGO"></a>
 				</div>
 				<div id="navigation">
 					<ul id="primary">
 						<li>
-							<a href="index.html">Home</a>
+							<a href="index.php">Home</a>
 						</li>
 						<li>
-							<a href="new.php">New Arrivals</a>
+							<a href="#">Products</a>
+							<ul class="sub-menu">
+				        		<li><a class= "small" href="newarrivals.php">New Arrivals</a></li>
+				        		<li class="inner"><a class= "small"href="#">Product Category</a>
+				        			<ul>
+				        				<li><a href="dairyproduct.php">Dairy Products</a></li> 
+				        				<li><a href="vegetable.php">Vegetable</a></li>
+				        				<li><a href="groceries.php">Groceries</a></li>
+				        				<li><a href="drinks.php">Drinks</a></li>
+				        				<li><a href="food.php">Processed food</a></li>
+				        			</ul>
+				        		</li>
+				       			 <li><a class= "small" href="manufacturer.php">Manufacturers</a></li>
+				     		 </ul>
 						</li>
 						<li>
-							<a href="mens.php">Mens</a>
+							<a href="sale.php">Sales</a>
 						</li>
 						<li>
-							<a href="womens.php">Womens</a>
+							<a href="news/news.php">Promotions</a>
 						</li>
 						<li>
-							<a href="faq.php">Faq</a>
-						</li>
-						<li class="highlight">
-							<a href="sale.php">Sale Items</a>
+							<a href="about.php">About</a>
 						</li>
 					</ul>
 					<ul id="secondary">
-						<li>
+						<li >
 							<a href="checkout.php">Cart</a>
 						</li>
+
 						<li>
-							<a href="index.html">Login</a>
+							<a href="login/login.php">Login</a>
 						</li>
 					</ul>
 				</div>
-			</div>
+
 			<div id="contents">
 				<div id="checkout">
 					<h4><span>Checkout</span></h4>
