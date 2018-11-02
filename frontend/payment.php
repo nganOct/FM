@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>Checkout - Family Mart</title>
+	<title>Payment - Family Mart</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
@@ -15,7 +15,7 @@
 				<div id="navigation">
 					<ul id="primary">
 						<li>
-							<a href="index.php">Home</a>
+							<a href="index.php"><img style="width: 100%" src="home.jpg" alt="">Home</a>
 						</li>
 						<li>
 							<a href="#">Products</a>
@@ -56,7 +56,7 @@
 
 			<div id="contents">
 				<div id="checkout">
-					<h4><span>Checkout</span></h4>
+					<h4><span>Payment</span></h4>
 					<table>
 						<thead>
 							<tr>
@@ -70,7 +70,7 @@
 							<tr>
 								<td><img src="images/leather-boots3.jpg" alt="Thumbnail"> <b>Hukbalahap Boots</b>
 									<p>
-										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam venenatis cursus gravida. Suspendisse ut ligula tristique velit blandit blandit vel sit amet ipsum. Nam accumsan turpid id mauris fermentum
+										
 									</p></td>
 								<td><a href="checkout.php" class="minus"></a> <a href="checkout.php" class="plus"></a>
 									<input type="text" value="1" class="txtfield"></td>
