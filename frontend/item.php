@@ -18,7 +18,7 @@
 		<div id="page">
 			<div id="header">
 				<div id="logo">
-					<a href="index.html"><img src="images/fam.png" alt="LOGO"></a>
+					<a href="../index.php"><img src="images/fam.png" alt="LOGO"></a>
 				</div>
 				<div id="navigation">
 					<ul id="primary">
