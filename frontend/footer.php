@@ -1,4 +1,13 @@
-			<div id="footer">
+<!DOCTYPE html>
+<!-- Website template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Index</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+	<div id="footer">
 				<div class="background">
 					<div id="connect">
 						<h5>Get Social With us!</h5>
@@ -36,3 +45,4 @@
 						&copy; Copyirght &copy; 2011. <a href="index.html">Company name</a> all rights reserved.
 					</p>
 				</div>
+			</body>
