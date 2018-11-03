@@ -65,17 +65,21 @@
 				<div id="product">
 					<div class="section">
 						<div>
-							<img src="images/product2.jpg" alt="view" width="317" margin-top=>
+							<img src="images/product2.jpg" alt="view" width="360" margin-top=>
 						</div>
 					</div>
 					<div class="section">
 						<h2><span>$8.50</span>Hukbalahap Boots</h2>
 						<p>
 							. Nam at ipsum in urna convallis accumsan. Nullam at
-						</p>
-						<h3>Category: </h3><br>
-						<label>Manufacturer: </label><br>
-						<form action="index.html" method="post">
+							bbbbbbbbbbbbbbbbbb
+							bbbbbbbbbbbbbbb
+							bbbbbbbbbbbbbbbbbbbbb
+							bbbbbbbbbbbbb
+						</p>				
+			            <h5 style="font-size: 16px; color: #636a86; font-weight: 700 ">Category: <?php ?></h5>
+			            <h5 style="font-size: 16px; color: #636a86; font-weight: 700; padding-top: 5px ">Manufacturer: <?php ?></h5>
+						<form action="index.php" method="post">
 							<label for="">Size: </label>
 							<select>			
 								<option>S</option>
@@ -98,7 +102,7 @@
 					<h4><span>Leave a Comment</span></h4>
 					<form action="comment.php" method="post">
 						<div class="form-group col-xs-10" style="margin-left: 50px">
-							<label for="title">Title</label>
+							<label for="title">Title:</label>
 							<textarea class="form-control" rows="1" id="title" required></textarea>
 						</div>
 						<div class="form-group col-xs-10" style="margin-left: 50px">
