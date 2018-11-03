@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>New Promotions</title>
+  <title>Up Comming Events</title>
   <meta charset="UTF-8">
   <link rel="stylesheet" type="text/css" href="../css/style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -61,7 +61,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       </div>
       <br>
       <div id="contents">
-        <h4><span>News</span></h4>
+        <h4><span>New Events</span></h4>
       </div>
       <div id ="promotions">
         <!-- Blog entries -->
