@@ -3,6 +3,7 @@
 /*Comment List styles*/
 .comment-list .row {
   margin-bottom: 0px;
+width: 800px;
 }
 .comment-list .panel .panel-heading {
   padding: 4px 15px;
