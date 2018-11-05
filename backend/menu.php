@@ -24,7 +24,7 @@
 		        <li id="menu-home" ><a href="index.php"><i class="fa fa-tachometer"></i><span>Dashboard</span></a></li>
 		        <li id="menu-comunicacao" ><a href="#"><i class="fa fa-book nav_icon"></i><span>Users</span><span class="fa fa-angle-right" style="float: right"></span></a>
 		          <ul id="menu-comunicacao-sub" >
-		             <li id="menu-arquivos" ><a href="icons.php">Details</a></li>
+		             <li id="menu-arquivos" ><a href="userlist.php">Details</a></li>
 		          </ul>
 		        </li>
 		        <li id="menu-academico" ><a href="#"><i class="fa fa-file-text"></i><span>News</span><span class="fa fa-angle-right" style="float: right"></span></a>

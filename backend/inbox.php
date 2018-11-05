@@ -30,7 +30,7 @@
 			<!--inner block start here-->
 			<div class="inner-block">
 				<div class="inbox">
-					<h2>Inbox</h2>
+					<h2>Comment Management</h2>
 					<div class="col-md-4 compose">   	 	
 						<div class="mail-profile">
 							<div class="mail-pic">
