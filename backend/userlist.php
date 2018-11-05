@@ -9,8 +9,8 @@ $run = mysqli_query($conn,$sql);
 	mysqli_query($conn,$sql);
 	header('location:../../index.php?manage=quanlykhachhang&ac=sua&id='.$id);
 }*/
-if{
-	if (isset ($_GET['manage'])){
+//if{
+	/*if (isset ($_GET['manage'])){
 		$tam = $_GET['manage'];
 	}else{
 		$tam = '';
@@ -23,7 +23,7 @@ if{
 	mysqli_query($conn,$sql);
 	header('location: ../../index.php?manage=quanlykhachhang&ac=them');
 
-}
+//}*/
 ?>
 <!DOCTYPE HTML>
 <html>
