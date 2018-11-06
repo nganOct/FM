@@ -3,7 +3,8 @@ include('../frontend/config.php');
 $sql="select * from user order by user_id";
 $run = mysqli_query($conn,$sql);
 
-/* }elseif(isset($_POST['sua'])){
+/*
+ }elseif(isset($_POST['sua'])){
 	//sua
 	$sql = "update member set username='$username', password = '$password' ,address='$address', email = '$email', fullname = '$fullname' , gender = '$gender' where u_id = '$id'";
 	mysqli_query($conn,$sql);
@@ -23,7 +24,8 @@ $run = mysqli_query($conn,$sql);
 	mysqli_query($conn,$sql);
 	header('location: ../../index.php?manage=quanlykhachhang&ac=them');
 
-//}*/
+//}
+*/
 ?>
 <!DOCTYPE HTML>
 <html>
@@ -83,6 +85,7 @@ $run = mysqli_query($conn,$sql);
 						<div class="pro-head">
 							<h2>User Management</h2>
 						</div>
+							
 						<div class="tab-content tab-content-in">
 							<div class="mailbox-border">
 								<table id="customers">

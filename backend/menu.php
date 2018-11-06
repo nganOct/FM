@@ -22,35 +22,41 @@
 		    <div class="menu">
 		      <ul id="menu" >
 		        <li id="menu-home" ><a href="index.php"><i class="fa fa-tachometer"></i><span>Dashboard</span></a></li>
-		        <li id="menu-comunicacao" ><a href="#"><i class="fa fa-book nav_icon"></i><span>Users</span><span class="fa fa-angle-right" style="float: right"></span></a>
+		        <li id="menu-comunicacao" ><a href="#"><i class="fa fa-users"></i><span>Users</span><span class="fa fa-angle-right" style="float: right"></span></a>
 		          <ul id="menu-comunicacao-sub" >
 		             <li id="menu-arquivos" ><a href="userlist.php">Details</a></li>
 		          </ul>
 		        </li>
-		        <li id="menu-academico" ><a href="#"><i class="fa fa-file-text"></i><span>News</span><span class="fa fa-angle-right" style="float: right"></span></a>
+		        <li id="menu-academico" ><a href="#"><i class="fa fa-newspaper-o"></i><span>News</span><span class="fa fa-angle-right" style="float: right"></span></a>
+		          <ul id="menu-academico-sub" >
+		          	 <li id="menu-academico-boletim" ><a href="#">On Sales</a></li>
+		            <li id="menu-academico-avaliacoes" ><a href="faq.php">FAQ</a></li>		           
+		          </ul>
+		        </li>
+		        
+		        <li><a href="charts.php"><i class="fa fa-bar-chart"></i><span>Charts</span></a></li>
+		        <li><a href="#"><i class="fa fa-comments-o"></i><span>Feedbacks</span><span class="fa fa-angle-right" style="float: right"></span></a>
+		        	 <ul id="menu-academico-sub" >
+			            <li id="menu-academico-avaliacoes" ><a href="inbox.php">Comments</a></li>
+		             </ul>
+		        </li>
+		         <li><a href="#"><i class="fa fa-shopping-cart"></i><span>Purchase</span><span class="fa fa-angle-right" style="float: right"></span></a>
+		         	 <ul id="menu-academico-sub" >
+			            <li id="menu-academico-avaliacoes" ><a href="order.php">Order</a></li>
+			            <li id="menu-academico-boletim" ><a href="#">Payment</a></li>
+		             </ul>
+		         </li>
+		         <li><a href="#"><i class="fa fa-product-hunt"></i><span>Products</span><span class="fa fa-angle-right" style="float: right"></span></a>
+		         	<ul id="menu-academico-sub" >
+			            <li id="menu-academico-avaliacoes" ><a href="product.php">Details</a></li>
+		             </ul>
+		         </li>
+		         <li id="menu-academico" ><a href="#"><i class="fa fa fa-file-text"></i><span>Extra Pages</span><span class="fa fa-angle-right" style="float: right"></span></a>
 		          <ul id="menu-academico-sub" >
 		          	 <li id="menu-academico-boletim" ><a href="login.php">Login</a></li>
 		            <li id="menu-academico-avaliacoes" ><a href="signup.php">Sign Up</a></li>		           
 		          </ul>
 		        </li>
-		        
-		        <li><a href="charts.php"><i class="fa fa-bar-chart"></i><span>Charts</span></a></li>
-		        <li><a href="#"><i class="fa fa-envelope"></i><span>Feedbacks</span><span class="fa fa-angle-right" style="float: right"></span></a>
-		        	 <ul id="menu-academico-sub" >
-			            <li id="menu-academico-avaliacoes" ><a href="inbox.php">Comments</a></li>
-		             </ul>
-		        </li>
-		         <li><a href="#"><i class="fa fa-cog"></i><span>Sales</span><span class="fa fa-angle-right" style="float: right"></span></a>
-		         	 <ul id="menu-academico-sub" >
-			            <li id="menu-academico-avaliacoes" ><a href="#">Order</a></li>
-			            <li id="menu-academico-boletim" ><a href="#">Thanh Toan</a></li>
-		             </ul>
-		         </li>
-		         <li><a href="#"><i class="fa fa-shopping-cart"></i><span>Products</span><span class="fa fa-angle-right" style="float: right"></span></a>
-		         	<ul id="menu-academico-sub" >
-			            <li id="menu-academico-avaliacoes" ><a href="product.php">Details</a></li>
-		             </ul>
-		         </li>
 		      </ul>
 		    </div>
 		</body>

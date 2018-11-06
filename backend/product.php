@@ -29,9 +29,14 @@
 				<!--inner block start here-->
 				<div class="inner-block">
 					<div class="product-block">
+							<a href="#" class="btn btn-primary pull-right">
+								<i class="fa fa-plus-circle fa-lg"></i> Add product
+							</a>
 						<div class="pro-head">
 							<h2>Products</h2>
+
 						</div>
+
 						<div class="col-md-3 product-grid">
 							<div class="product-items">
 								<div class="project-eff">
